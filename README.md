@@ -1,5 +1,5 @@
 # Django_OMDB
-Installation of Prerequisites: 
+# Installation of Prerequisites: 
 Create virtual enviroment:
 py -m venv project-name
 project-name\Scripts\activate.bat
